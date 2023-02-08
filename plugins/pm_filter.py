@@ -108,7 +108,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://telegram.me/LazyDeveloper')
+            InlineKeyboardButton(text="⚡HOW TO DOWNLOAD ⚡", url='https://t.me/PrimePornZ')
         ]
     )
 
@@ -433,10 +433,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕↖️ Join Our Main Channel ↗️➕', url=f'http://t.me/PrimePornZ')
             ],[
-            InlineKeyboardButton('⚡ Movie Updates ⚡', url=f"https://telegram.me/real_MoviesAdda1"),
-            InlineKeyboardButton('🔔 BOT Updates 🤖', url='https://t.me/LazyDeveloper')
+            InlineKeyboardButton('⚡ UPDATES ⚡', url=f"https://t.me/PrimePornZ9"),
+            InlineKeyboardButton('🔔 GROUP 🤖', url='https://t.me/BrazzersRequestGroup')
             ],[
              InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
             InlineKeyboardButton('♥️ About ♥️', callback_data='about')
@@ -688,7 +688,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://telegram.me/LazyDeveloper')
+            InlineKeyboardButton(text="⚡HOW TO DOWNLOAD⚡", url='https://telegram.me/PrimePornZ')
         ]
     )
 
