@@ -141,3 +141,9 @@ python3 bot.py
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
 Licensed under [GNU AGPL 2.0.](https://github.com/LazyDeveloperr/LazyPrincess/blob/master/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
+
+# Deploy
+
+*You can use the bot locally by either running* **main.py** or deploy using **Procfile** or **Dokerfile** or **docker-compose.yml**
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/D6ueVa?referralCode=_4oAwx)
